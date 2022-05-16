@@ -1,9 +1,9 @@
-typedef struct{
+typedef struct datosCarrera{
     int id;
     char nombre[40];
 }carrera;
 
-typedef struct
+typedef struct datosEstudiante
 {
   char id[20];
   char nombre[40];
